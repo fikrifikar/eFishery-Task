@@ -31,5 +31,5 @@ Link to the diagram : https://dbdiagram.io/d/6378dbedc9abfc611173d873
       
 Answer :
 
-[eFishery_Task_AhmadFikri.pdf](https://github.com/fikrifikar/eFishery-Task/files/10050113/eFishery_Task_AhmadFikri.pdf)
+[eFishery_Task_AhmadFikri.pdf](https://github.com/fikrifikar/eFishery-Task/files/10050128/eFishery_Task_AhmadFikri.pdf)
 
