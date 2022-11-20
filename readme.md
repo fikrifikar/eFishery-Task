@@ -4,7 +4,7 @@
 Repo for submit task from eFishery
 
 
-1. Membuat BPMN (Business Process Model and Notation) untuk sisi supply dan demand secara umum. Anda bisa membuat BPMN dalam tools draw.io, whimsical, atau flowchart tools lainnya yang Anda sudah terbiasa.
+1. Membuat BPMN (Business Process Model and Notation) untuk sisi supply dan demand secara umum.
 
 Answer :
 
@@ -13,7 +13,7 @@ Answer :
 Link to the diagram : https://lucid.app/lucidchart/c4d11625-b5c0-43d3-88c1-a168db60d8fa/edit?viewport_loc=6%2C158%2C2560%2C1168%2C0_0&invitationId=inv_8ced5276-c720-42c5-b0ae-a15b608a4531
 
 
-2. Membuat Skema Data Warehouse dengan konsep Fact and Dimension Table untuk semua proses bisnis yang berjalan. Silakan gunakan asumsi terkait informasi (field) dari setiap table yang akan dibuat. Buatlah skema ini dalam bentuk ERD (Entity Relationship Diagram). Kami merekomendasikan Anda untuk membuatnya di web-app https://dbdiagram.io.
+2. Membuat Skema Data Warehouse dengan konsep Fact and Dimension Table untuk semua proses bisnis yang berjalan. 
 
 Answer :
 
@@ -22,7 +22,7 @@ Answer :
 Link to the diagram : https://dbdiagram.io/d/6378dbedc9abfc611173d873
 
 
-3. Buatlah narasi (maksimal dalam 1 halaman A4 normal margin) yang menceritakan:
+3. Buat narasi :
 
       a. Potensi data-failure apa saja yang mungkin terjadi dalam proses di atas.
   
