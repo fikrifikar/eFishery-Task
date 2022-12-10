@@ -1,7 +1,7 @@
 # eFishery-Task
 Repo for submit task from eFishery
 
-Step 1 : Download source code from github, the source code will be available in efishery-task.py file.
+Step 1 : Download / copy source code from github, the source code will be available in efishery-task.py file.
 
 Step 2 : Open Google Colaboratory in https://colab.research.google.com/
 
